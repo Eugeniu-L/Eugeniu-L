@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Eugeniu-L
+# 👋 Hi, I’m Eugeniu.
 - 👀 I’m interested in Technologies and Motorcycles
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on any projects related to SAP, SQL, Python, ETL-Informatica.
